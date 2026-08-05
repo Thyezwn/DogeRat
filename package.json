@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node start.js"
+    "start": "rm -rf node_modules/.cache && node server.js"
   },
   "keywords": [],
   "author": "",
