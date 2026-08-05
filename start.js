@@ -1,6 +1,6 @@
 const { exec } = require('child_process');
 const PORT = process.env.PORT || 3000;
-const BOT_TOKEN = "ضع_توكن_البوت_هنا"; // ضع التوكن الخاص بك
+const BOT_TOKEN ="8675691795:AAF67pPyk5SBZIablEZ71j7oRCIIC6mIhqE؛"
 
 // 1. نقوم بإخبار تليجرام بأن البوت سيستخدم Webhook وتحديد الرابط الخاص بك
 const https = require('https');
